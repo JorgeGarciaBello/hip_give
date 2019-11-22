@@ -1,0 +1,195 @@
+SciDAVis 1.25.0 project file
+<scripting-lang>	muParser
+<windows>	3
+<table>
+10022
+<table creation_time="1919-11-11 23:19:00:000" caption_spec="%n%C{ - }%c" name="Tabla1" columns="4" rows="30"><comment><![CDATA[]]></comment><column creation_time="2019-11-11 23:19:33:912" caption_spec="%n%C{ - }%c" name="1" type="TypeDouble" mode="Numeric" plot_designation="X"><comment><![CDATA[]]></comment><input_filter><simple_filter creation_time="2019-11-11 23:19:33:912" caption_spec="%n%C{ - }%c" name="InputFilter" filter_name="String2DoubleFilter"><comment><![CDATA[]]></comment></simple_filter></input_filter><output_filter><simple_filter creation_time="2019-11-11 23:19:33:912" caption_spec="%n%C{ - }%c" name="OutputFilter" format="g" digits="6" filter_name="Double2StringFilter"><comment><![CDATA[]]></comment></simple_filter></output_filter><row type="TypeDouble" index="0" invalid="no">3.0573000000000000e+04</row><row type="TypeDouble" index="1" invalid="no">5.0000000000000000e+03</row><row type="TypeDouble" index="2" invalid="no">5.0000000000000000e+03</row><row type="TypeDouble" index="3" invalid="no">5.0000000000000000e+03</row><row type="TypeDouble" index="4" invalid="no">2.0000000000000000e+04</row><row type="TypeDouble" index="5" invalid="no">5.0500000000000000e+04</row><row type="TypeDouble" index="6" invalid="no">3.4300000000000000e+03</row><row type="TypeDouble" index="7" invalid="no">1.2150000000000000e+03</row><row type="TypeDouble" index="8" invalid="no">9.8420000000000000e+03</row><row type="TypeDouble" index="9" invalid="no">8.3200000000000000e+03</row><row type="TypeDouble" index="10" invalid="no">7.4460000000000000e+03</row><row type="TypeDouble" index="11" invalid="no">5.9995000000000000e+04</row><row type="TypeDouble" index="12" invalid="no">2.5000000000000000e+04</row><row type="TypeDouble" index="13" invalid="no">1.5000000000000000e+04</row><row type="TypeDouble" index="14" invalid="no">4.0000000000000000e+04</row><row type="TypeDouble" index="15" invalid="no">2.5000000000000000e+04</row><row type="TypeDouble" index="16" invalid="no">4.0200000000000000e+04</row><row type="TypeDouble" index="17" invalid="no">1.4460000000000000e+04</row></column><column creation_time="2019-11-11 23:19:33:914" caption_spec="%n%C{ - }%c" name="2" type="TypeDouble" mode="Numeric" plot_designation="Y"><comment><![CDATA[]]></comment><input_filter><simple_filter creation_time="2019-11-11 23:19:33:914" caption_spec="%n%C{ - }%c" name="InputFilter" filter_name="String2DoubleFilter"><comment><![CDATA[]]></comment></simple_filter></input_filter><output_filter><simple_filter creation_time="2019-11-11 23:19:33:914" caption_spec="%n%C{ - }%c" name="OutputFilter" format="g" digits="6" filter_name="Double2StringFilter"><comment><![CDATA[]]></comment></simple_filter></output_filter><row type="TypeDouble" index="0" invalid="no">7.2496000000000000e+04</row><row type="TypeDouble" index="1" invalid="no">7.1939000000000000e+04</row><row type="TypeDouble" index="2" invalid="no">1.9751000000000000e+04</row><row type="TypeDouble" index="3" invalid="no">3.7514000000000000e+04</row><row type="TypeDouble" index="4" invalid="no">3.3337000000000000e+04</row><row type="TypeDouble" index="5" invalid="no">1.2921500000000000e+05</row><row type="TypeDouble" index="6" invalid="no">5.5970000000000000e+03</row><row type="TypeDouble" index="7" invalid="no">1.2920000000000000e+03</row><row type="TypeDouble" index="8" invalid="no">6.0938000000000000e+04</row><row type="TypeDouble" index="9" invalid="no">2.6056000000000000e+04</row><row type="TypeDouble" index="10" invalid="no">1.2276000000000000e+04</row><row type="TypeDouble" index="11" invalid="no">2.0142100000000000e+05</row><row type="TypeDouble" index="12" invalid="no">3.7314000000000000e+04</row><row type="TypeDouble" index="13" invalid="no">2.5643000000000000e+04</row><row type="TypeDouble" index="14" invalid="no">1.8816800000000000e+05</row><row type="TypeDouble" index="15" invalid="no">1.0607000000000000e+05</row><row type="TypeDouble" index="16" invalid="no">7.4471000000000000e+04</row><row type="TypeDouble" index="17" invalid="no">2.8213000000000000e+04</row></column><column creation_time="2019-11-11 23:25:33:013" caption_spec="%n%C{ - }%c" name="Demora1" type="TypeDouble" mode="Numeric" plot_designation="X"><comment><![CDATA[]]></comment><input_filter><simple_filter creation_time="2019-11-11 23:25:33:013" caption_spec="%n%C{ - }%c" name="InputFilter" filter_name="String2DoubleFilter"><comment><![CDATA[]]></comment></simple_filter></input_filter><output_filter><simple_filter creation_time="2019-11-11 23:25:33:013" caption_spec="%n%C{ - }%c" name="OutputFilter" format="g" digits="6" filter_name="Double2StringFilter"><comment><![CDATA[]]></comment></simple_filter></output_filter><row type="TypeDouble" index="0" invalid="no">-1.5000000000000000e+01</row><row type="TypeDouble" index="1" invalid="no">-1.4000000000000000e+01</row><row type="TypeDouble" index="2" invalid="no">-1.3000000000000000e+01</row><row type="TypeDouble" index="3" invalid="no">-1.2000000000000000e+01</row><row type="TypeDouble" index="4" invalid="no">-1.1000000000000000e+01</row><row type="TypeDouble" index="5" invalid="no">-1.0000000000000000e+01</row><row type="TypeDouble" index="6" invalid="no">-9.0000000000000000e+00</row><row type="TypeDouble" index="7" invalid="no">-8.0000000000000000e+00</row><row type="TypeDouble" index="8" invalid="no">-7.0000000000000000e+00</row><row type="TypeDouble" index="9" invalid="no">-6.0000000000000000e+00</row><row type="TypeDouble" index="10" invalid="no">-5.0000000000000000e+00</row><row type="TypeDouble" index="11" invalid="no">-4.0000000000000000e+00</row><row type="TypeDouble" index="12" invalid="no">-3.0000000000000000e+00</row><row type="TypeDouble" index="13" invalid="no">-2.0000000000000000e+00</row><row type="TypeDouble" index="14" invalid="no">-1.0000000000000000e+00</row><row type="TypeDouble" index="15" invalid="no">0.0000000000000000e+00</row><row type="TypeDouble" index="16" invalid="no">1.0000000000000000e+00</row><row type="TypeDouble" index="17" invalid="no">2.0000000000000000e+00</row><row type="TypeDouble" index="18" invalid="no">3.0000000000000000e+00</row><row type="TypeDouble" index="19" invalid="no">4.0000000000000000e+00</row><row type="TypeDouble" index="20" invalid="no">5.0000000000000000e+00</row><row type="TypeDouble" index="21" invalid="no">6.0000000000000000e+00</row><row type="TypeDouble" index="22" invalid="no">7.0000000000000000e+00</row><row type="TypeDouble" index="23" invalid="no">8.0000000000000000e+00</row><row type="TypeDouble" index="24" invalid="no">9.0000000000000000e+00</row><row type="TypeDouble" index="25" invalid="no">1.0000000000000000e+01</row><row type="TypeDouble" index="26" invalid="no">1.1000000000000000e+01</row><row type="TypeDouble" index="27" invalid="no">1.2000000000000000e+01</row><row type="TypeDouble" index="28" invalid="no">1.3000000000000000e+01</row><row type="TypeDouble" index="29" invalid="no">1.4000000000000000e+01</row></column><column creation_time="2019-11-11 23:25:33:018" caption_spec="%n%C{ - }%c" name="Correlación1" type="TypeDouble" mode="Numeric" plot_designation="Y"><comment><![CDATA[]]></comment><input_filter><simple_filter creation_time="2019-11-11 23:25:33:018" caption_spec="%n%C{ - }%c" name="InputFilter" filter_name="String2DoubleFilter"><comment><![CDATA[]]></comment></simple_filter></input_filter><output_filter><simple_filter creation_time="2019-11-11 23:25:33:018" caption_spec="%n%C{ - }%c" name="OutputFilter" format="g" digits="6" filter_name="Double2StringFilter"><comment><![CDATA[]]></comment></simple_filter></output_filter><row type="TypeDouble" index="0" invalid="no">-7.8932172971080399e+08</row><row type="TypeDouble" index="1" invalid="no">-1.1863836176902366e+09</row><row type="TypeDouble" index="2" invalid="no">-9.0419468867282486e+08</row><row type="TypeDouble" index="3" invalid="no">5.8633736147310591e+08</row><row type="TypeDouble" index="4" invalid="no">2.1875148622031364e+09</row><row type="TypeDouble" index="5" invalid="no">2.6521049301877298e+09</row><row type="TypeDouble" index="6" invalid="no">9.4740977093865776e+08</row><row type="TypeDouble" index="7" invalid="no">-8.5346677179029322e+08</row><row type="TypeDouble" index="8" invalid="no">3.4265169244530931e+09</row><row type="TypeDouble" index="9" invalid="no">7.8555715234683161e+09</row><row type="TypeDouble" index="10" invalid="no">8.0039792167513857e+09</row><row type="TypeDouble" index="11" invalid="no">5.5980439064641972e+09</row><row type="TypeDouble" index="12" invalid="no">1.0484792808877747e+10</row><row type="TypeDouble" index="13" invalid="no">9.5214116786469231e+09</row><row type="TypeDouble" index="14" invalid="no">1.1379955793380623e+10</row><row type="TypeDouble" index="15" invalid="no">2.5935769031359848e+10</row><row type="TypeDouble" index="16" invalid="no">1.2517317330210804e+10</row><row type="TypeDouble" index="17" invalid="no">4.3873943779402370e+09</row><row type="TypeDouble" index="18" invalid="no">7.7401927041728249e+09</row><row type="TypeDouble" index="19" invalid="no">7.5672296187768955e+09</row><row type="TypeDouble" index="20" invalid="no">8.3150067912968636e+09</row><row type="TypeDouble" index="21" invalid="no">7.8868112390622683e+09</row><row type="TypeDouble" index="22" invalid="no">2.0525562485613432e+09</row><row type="TypeDouble" index="23" invalid="no">-2.3331681919597049e+09</row><row type="TypeDouble" index="24" invalid="no">-2.7672608249530921e+09</row><row type="TypeDouble" index="25" invalid="no">3.5492383957816839e+09</row><row type="TypeDouble" index="26" invalid="no">6.8520320117486143e+09</row><row type="TypeDouble" index="27" invalid="no">-1.0289232942141986e+09</row><row type="TypeDouble" index="28" invalid="no">-3.7489704573777466e+09</row><row type="TypeDouble" index="29" invalid="no">-3.7954283163969221e+09</row></column><column_width column="0">120</column_width><column_width column="1">120</column_width><column_width column="2">120</column_width><column_width column="3">120</column_width></table>
+geometry	0	247	196	24	minimized	
+
+</table>
+<multiLayer>
+Gráfico1	1	1	11/11/19 23:23
+geometry	554	0	744	475	
+WindowLabel		2
+Margins	5	5	5	5
+Spacing	5	5
+LayerCanvasSize	390	269
+Alignement	0	0
+<graph>
+ggeometry	6	6	726	417
+PlotTitle	Título	#ff000000	4228
+<Antialiasing>1</Antialiasing>
+Background	#ffffffff	255
+Margin	0
+Border	0	#ff4c4c4c
+grid	0	0	0	0	#ff000000	0	0	#ff000000	2	0	#ff000000	0	0	#ff000000	2	0	0	0	2	0
+EnabledAxes	1	0	1	0	
+AxesTitles	título eje X	título eje Y			
+AxesTitleColors	#ff000000	#ff000000	#ff000000	#ff000000	
+AxesTitleAlignment	5124	4	5124	4
+TitleFont	Ubuntu	16	75	0	0	0
+ScaleFont0	Ubuntu	13	75	0	0	0
+ScaleFont1	Ubuntu	13	75	0	0	0
+ScaleFont2	Ubuntu	13	75	0	0	0
+ScaleFont3	Ubuntu	13	75	0	0	0
+AxisFont0	Ubuntu	13	50	0	0	0
+AxisFont1	Ubuntu	13	50	0	0	0
+AxisFont2	Ubuntu	13	50	0	0	0
+AxisFont3	Ubuntu	13	50	0	0	0
+EnabledTickLabels	1	1	1	1	
+AxesColors	#ff000000	#ff000000	#ff000000	#ff000000
+AxesNumberColors	#ff3c3c3c	#ff3c3c3c	#ff3c3c3c	#ff3c3c3c
+AxesBaseline	0	0	0	0	
+CanvasBackground	#ffffffff	255
+curve	Tabla1_1	Tabla1_2	1	0	#ff000000	0	1	7	1	#ff000000	-1	0	#ff000000	31	1	0	64		2	0	0	29	1
+scale	0	-50000	250000	0	8	5	0	0
+scale	1	-50000	250000	0	8	5	0	0
+scale	2	0	70000	0	8	5	0	0
+scale	3	-10000	70000	0	8	5	0	0
+LabelsFormat	0	4	0	4	0	4	0	4	
+AxisType	0	0	0	0	
+MajorTicks	1	1	1	1	
+MinorTicks	1	1	1	1	
+TicksLength	5	9
+DrawAxesBackbone	1
+AxesLineWidth	1
+LabelsRotation	0	0
+<legend>	5276.38190954774	228703.703703704	Ubuntu	13	50	0	0	0	#ff000000	1	0	#ffffff	0	\c{1}Tabla1_2</legend>
+</graph>
+</multiLayer>
+<multiLayer>
+Gráfico2	1	1	11/11/19 23:37
+geometry	85	-3	500	401	active
+WindowLabel		2
+Margins	5	5	5	5
+Spacing	5	5
+LayerCanvasSize	1202	448
+Alignement	0	0
+<graph>
+ggeometry	2	3	488	342
+PlotTitle	Fondos de contra partida<br> vs <br>monto recaudado	#ff000000	4
+<Antialiasing>1</Antialiasing>
+Background	#ffffffff	255
+Margin	0
+Border	0	#ff4c4c4c
+grid	0	0	0	0	#ff000000	0	0	#ff000000	2	0	#ff000000	0	0	#ff000000	2	0	0	0	2	0
+EnabledAxes	1	0	1	0	
+AxesTitles	Monto del fondo de contra partida	Monto recaudado (Dolares)			
+AxesTitleColors	#ff000000	#ff000000	#ff000000	#ff000000	
+AxesTitleAlignment	4	4	4	4
+TitleFont	Ubuntu	8	75	0	0	0
+ScaleFont0	Ubuntu	7	75	0	0	0
+ScaleFont1	Ubuntu	7	75	0	0	0
+ScaleFont2	Ubuntu	7	75	0	0	0
+ScaleFont3	Ubuntu	7	75	0	0	0
+AxisFont0	Ubuntu	7	50	0	0	0
+AxisFont1	Ubuntu	7	50	0	0	0
+AxisFont2	Ubuntu	7	50	0	0	0
+AxisFont3	Ubuntu	7	50	0	0	0
+EnabledTickLabels	1	1	1	1	
+AxesColors	#ff000000	#ff000000	#ff000000	#ff000000
+AxesNumberColors	#ff3c3c3c	#ff3c3c3c	#ff3c3c3c	#ff3c3c3c
+AxesBaseline	0	0	0	0	
+CanvasBackground	#ffffffff	255
+curve	Tabla1_1	Tabla1_2	1	0	#ff000000	0	1	7	1	#ff000000	#ff000000	0	#ff000000	31	0	0	64		2	0	0	17	1
+FunctionCurve	0,No LinealAjustar1,x,1215,59995	100			0	1	#ff000000	0	1	0	0	#ff000000	#ff000000	0	#ff000000	31	0	0	64		2	0	-380352112	22019	1
+<formula>
+a0=4988.75393648617
+a1=2.84690346835451
+
+a0+a1*x
+
+</formula>
+scale	0	-50000	250000	0	8	5	0	0
+scale	1	-50000	250000	0	8	5	0	0
+scale	2	0	70000	0	8	5	0	0
+scale	3	-10000	70000	0	8	5	0	0
+LabelsFormat	0	4	0	4	0	4	0	4	
+AxisType	0	0	0	0	
+MajorTicks	1	1	1	1	
+MinorTicks	1	1	1	1	
+TicksLength	5	9
+DrawAxesBackbone	1
+AxesLineWidth	1
+LabelsRotation	0	0
+<legend>	5266.99029126214	199116.607773852	Ubuntu	7	50	0	0	0	#ff000000	1	0	#ffffff	0	\c{1} Datos	\c{2} Línea de tendencia</legend>
+</graph>
+</multiLayer>
+<log>
+[11/11/19 23:29	Gráfico: '''']
+No lineal ajuste del conjunto de datos: Tabla1_2, usando función : a0+a1*x
+errores estándar Y: Desconocido
+Levenberg-Marquardt escalado algoritmo con tolerancia = 0,0001
+Desde x = 14.460 a x = 30.573
+a  = 0 +/- nan
+b  = 0 +/- nan
+--------------------------------------------------------------------------------------
+Chi^2 = nan
+R^2 = nan
+---------------------------------------------------------------------------------------
+Iteraciones = 0
+Estado = iteration is not making progress towards solution
+---------------------------------------------------------------------------------------
+[11/11/19 23:30	Gráfico: '''']
+No lineal ajuste del conjunto de datos: Tabla1_2, usando función : a0+a1*x
+errores estándar Y: Desconocido
+Levenberg-Marquardt escalado algoritmo con tolerancia = 0,0001
+Desde x = 14.460 a x = 30.573
+a  = 0 +/- nan
+b  = 0 +/- nan
+--------------------------------------------------------------------------------------
+Chi^2 = nan
+R^2 = nan
+---------------------------------------------------------------------------------------
+Iteraciones = 0
+Estado = iteration is not making progress towards solution
+---------------------------------------------------------------------------------------
+[11/11/19 23:30	Gráfico: '''']
+No lineal ajuste del conjunto de datos: Tabla1_2, usando función : a0+a1*x
+errores estándar Y: Desconocido
+Levenberg-Marquardt escalado algoritmo con tolerancia = 0,0001
+Desde x = 14.460 a x = 30.573
+a  = 0 +/- nan
+b  = 0 +/- nan
+--------------------------------------------------------------------------------------
+Chi^2 = nan
+R^2 = nan
+---------------------------------------------------------------------------------------
+Iteraciones = 0
+Estado = iteration is not making progress towards solution
+---------------------------------------------------------------------------------------
+[11/11/19 23:33	Gráfico: '''']
+Regresión Lineal ajuste del conjunto de datos: Tabla1_2, usando función : A*x+B
+errores estándar Y: Desconocido
+Desde x = 14.460 a x = 30.573
+B (y-intercección) = -24.223,4411551879 +/- 1.095.698.865,75057
+A (pendiente) = 3,44846036722315 +/- 48.848,3244692347
+--------------------------------------------------------------------------------------
+Chi^2 = 2.768.131.277,84163
+R^2 = 0,463006371448463
+---------------------------------------------------------------------------------------
+[11/11/19 23:35	Gráfico: '''']
+Regresión Lineal ajuste del conjunto de datos: Tabla1_2, usando función : A*x+B
+errores estándar Y: Desconocido
+Desde x = 14.460 a x = 30.573
+B (y-intercección) = -24.223,4411551879 +/- 1.095.698.865,75057
+A (pendiente) = 3,44846036722315 +/- 48.848,3244692347
+--------------------------------------------------------------------------------------
+Chi^2 = 2.768.131.277,84163
+R^2 = 0,463006371448463
+---------------------------------------------------------------------------------------
+[11/11/19 23:38	Gráfico: '''']
+No lineal ajuste del conjunto de datos: Tabla1_2, usando función : a0+a1*x
+errores estándar Y: Desconocido
+Levenberg-Marquardt escalado algoritmo con tolerancia = 0,0001
+Desde x = 1.215 a x = 59.995
+a0  = 4.988,75393648617 +/- 11.770,4475220361
+a1  = 2,84690346835451 +/- 0,443248567317935
+--------------------------------------------------------------------------------------
+Chi^2 = 16.503.389.439,2963
+R^2 = 0,720653676749227
+---------------------------------------------------------------------------------------
+Iteraciones = 2
+Estado = success
+---------------------------------------------------------------------------------------
+</log>
